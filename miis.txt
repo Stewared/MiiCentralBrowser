@@ -1,6 +1,6 @@
 DE/!-166638
 DE/-[γυмϊϊ.]--210422
-DE/.--139182
+DE/_dot_--139182
 DE/1-134814
 DE/2 head-149478
 DE/2.0-175478
@@ -1723,12 +1723,12 @@ FR/$απα-113070
 FR/$απα-149470
 FR/$απα-201054
 FR/$απα-204382
-FR/.iiuvgki_Sl_l-54934
-FR/.nh,ln-56182
-FR/.sgjc!_Qm_!_Qm_!-55142
-FR/.·•●Guigui-142918
-FR/.·•●Guigui-168918
-FR/.·•●Guigui-173702
+FR/_dot_iiuvgki_Sl_l-54934
+FR/_dot_nh,ln-56182
+FR/_dot_sgjc!_Qm_!_Qm_!-55142
+FR/_dot_·•●Guigui-142918
+FR/_dot_·•●Guigui-168918
+FR/_dot_·•●Guigui-173702
 FR/a!zzz-55038
 FR/A.Lien-61486
 FR/aaa! _Qm_!!a-54518
@@ -3445,7 +3445,7 @@ FR/ひなぁ～た★ÐΩ-204902
 GB/!!!-137766
 GB/!-1260
 GB/!-195382
-GB/.exe.exe-82230
+GB/_dot_exe.exe-82230
 GB/2 face-218678
 GB/A Hitler-183214
 GB/A. Hitler-75574
@@ -6971,9 +6971,9 @@ JP/？？？？-75142
 US/! point-113750
 US/! point-187278
 US/!-173238
-US/._-118638
-US/._-130598
-US/._-3860
+US/_dot__-118638
+US/_dot__-130598
+US/_dot__-3860
 US/0-78286
 US/12345bnmjg-60918
 US/7-64558

@@ -4934,8 +4934,8 @@
                 name,        // EXACT from miis.txt (do not modify)
                 displayName, // decoded only for UI
                 id,
-                imagePath: `${region}/IMG/${encodeURIComponent(name)}.png`,
-                downloadPath: `${region}/FFCD/${encodeURIComponent(name)}.ffcd`,
+                imagePath: `${region}/IMG/${encodeURIComponent(name.startsWith(".")?`_dot_${name}`:name)}.png`,
+                downloadPath: `${region}/FFCD/${encodeURIComponent(name.startsWith(".")?`_dot_${name}`:name)}.ffcd`,
 
             };
         }
