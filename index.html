@@ -4893,7 +4893,8 @@
                 .replace(/_Qu_/g, '"')
                 .replace(/_Lt_/g, '<')
                 .replace(/_Gt_/g, '>')
-                .replace(/_Ha_/g, '#');
+                .replace(/_Ha_/g, '#')
+                .replace(/_dot_/g, '.');
 
             // If something got URI-encoded earlier, decode safely (won't change normal names)
             try { displayName = decodeURIComponent(displayName); } catch { }
@@ -4934,8 +4935,8 @@
                 name,        // EXACT from miis.txt (do not modify)
                 displayName, // decoded only for UI
                 id,
-                imagePath: `${region}/IMG/${encodeURIComponent(name.startsWith(".")?`_dot_${name}`:name)}.png`,
-                downloadPath: `${region}/FFCD/${encodeURIComponent(name.startsWith(".")?`_dot_${name}`:name)}.ffcd`,
+                imagePath: `${region}/IMG/${encodeURIComponent(name)}.png`,
+                downloadPath: `${region}/FFCD/${encodeURIComponent(name)}.ffcd`,
 
             };
         }
